@@ -1,25 +1,35 @@
-# Bioinformatics Toolkit
+# 🧬 Bioinformatics Toolkit
 
-Python and R tools for bioinformatics, transcriptomics, proteomics, and clinical data analysis.
+A collection of reusable Python and R tools for bioinformatics, transcriptomics, proteomics, and clinical data analysis.
 
-## Overview
+## Features
 
-This repository contains reusable scripts and workflows for biological and clinical data analysis, with a focus on translational research, immunology, biomarker discovery, and multi-omics data.
-
-## Topics
-
-- Clinical data analysis
+- Clinical data utilities
+- Statistical analysis
+- Data visualization
 - Transcriptomics
 - Proteomics
-- Biomarker discovery
-- Data visualization
-- Statistical analysis
+- Reusable Python modules
 
-## Structure
+## Project Structure
 
 ```text
 data/
-notebooks/
-scripts/
-results/
 figures/
+notebooks/
+results/
+scripts/
+```
+
+## Technologies
+
+- Python
+- R
+- pandas
+- NumPy
+- Matplotlib
+- Jupyter Notebook
+
+## Status
+
+🚧 Under active development.
